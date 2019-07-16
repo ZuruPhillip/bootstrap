@@ -73,3 +73,13 @@ If you want to have `<input readonly>` elements in your form styled as plain tex
   <button type="submit" class="btn btn-primary mb-2">Confirm identity</button>
 </form>
 {{< /example >}}
+
+## Color
+
+
+{{< example >}}
+<form>
+  <label for="exampleColorInput">Color picker</label>
+  <input type="color" class="form-control form-control-color" id="exampleColorInput" value="#563d7c">
+</form>
+{{< /example >}}
