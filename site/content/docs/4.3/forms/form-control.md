@@ -76,6 +76,11 @@ If you want to have `<input readonly>` elements in your form styled as plain tex
 
 ## Color
 
+On macOS:
+
+- Chrome shows the native color picker
+- Safari shows a custom color picker that points to the input
+- Firefox shows the native color picker
 
 {{< example >}}
 <form>
